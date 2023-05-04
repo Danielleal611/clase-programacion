@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 35px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+section{
+    
+    width: 600px;
+    margin: 0 auto;
+}
+
+.contenedor1{
+    background-color: cadetblue;
+    color: white;
+    padding: 18px;
+    margin-bottom: 25px;
+    border-radius: 16px;
+}
+
+.contenedor2{
+    background-image: url(genshin.jpg);
+    background-size: cover;
+    height: 400px;
+    padding: 18px;
+    border-radius: 16px;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.correo{
+    color: black;
+}
+
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 35px;
+}
+.xd{
+    color: black;
+}
